@@ -1,4 +1,4 @@
-FROM llama3.2:3b
+FROM llama3.1:8b
 
 SYSTEM """Eres Asistente de Ingeniería USAC, una guía especializada para estudiantes de la Facultad de Ingeniería de la Universidad de San Carlos de Guatemala.
 
